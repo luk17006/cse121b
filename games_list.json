@@ -1,0 +1,7287 @@
+[
+  {
+    "Title": "Bomberman",
+    "Date": "01/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mega Man 4",
+    "Date": "01/00/1992",
+    "Console": "NES"
+  },
+  {
+    "Title": "Star Wars: The Empire Strikes Back",
+    "Date": "01/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Tetris Blast",
+    "Date": "01/00/1996",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mega Man 8",
+    "Date": "01/00/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Ghosts 'n Goblins",
+    "Date": "01/00/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Mega Man X3",
+    "Date": "01/04/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Robotron 64",
+    "Date": "01/05/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sonic Heroes",
+    "Date": "01/05/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Sonic Battle",
+    "Date": "01/05/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man X2",
+    "Date": "01/06/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Electroplankton",
+    "Date": "01/09/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Nagano Winter Olympics '98",
+    "Date": "01/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man 64",
+    "Date": "01/10/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Xtreme",
+    "Date": "01/10/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "The Legend of Zelda: The Minish Cap",
+    "Date": "01/10/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man X Collection",
+    "Date": "01/10/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Resident Evil 4",
+    "Date": "01/11/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Kingdom Hearts Re:coded",
+    "Date": "01/11/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Banjo-Pilot",
+    "Date": "01/12/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Personal Trainer: Math",
+    "Date": "01/12/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Magical Tetris Challenge",
+    "Date": "01/14/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Bowling",
+    "Date": "01/15/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Resident Evil 3: Nemesis",
+    "Date": "01/15/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Resident Evil 2",
+    "Date": "01/16/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "NBA Hangtime",
+    "Date": "01/17/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Plants vs. Zombies",
+    "Date": "01/18/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man X",
+    "Date": "01/19/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Resident Evil 2",
+    "Date": "01/21/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Advance Wars: Days of Ruin",
+    "Date": "01/21/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Hotel Dusk: Room 215",
+    "Date": "01/22/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mario & Sonic at the Olympic Games",
+    "Date": "01/22/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Typing of the Dead",
+    "Date": "01/23/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "True Swing Golf",
+    "Date": "01/23/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Devil May Cry 2",
+    "Date": "01/25/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Oddworld: Stranger's Wrath",
+    "Date": "01/25/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Castlevania",
+    "Date": "01/26/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Skies of Arcadia Legends",
+    "Date": "01/27/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Sonic Heroes",
+    "Date": "01/27/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sega GT Online",
+    "Date": "01/27/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Sonic Heroes",
+    "Date": "01/27/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Final Fantasy Tactics",
+    "Date": "01/28/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Gran Turismo 2",
+    "Date": "01/28/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Phantasy Star Online",
+    "Date": "01/29/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Rayman 2 Revolution",
+    "Date": "01/30/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Fighters Destiny",
+    "Date": "01/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Silent Hill",
+    "Date": "01/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Disney's Tarzan",
+    "Date": "01/31/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Contra",
+    "Date": "02/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "R.C. Pro-Am",
+    "Date": "02/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Golf",
+    "Date": "02/00/1990",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Super Scope 6",
+    "Date": "02/00/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mega Man II",
+    "Date": "02/00/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Bomberman II",
+    "Date": "02/00/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+    "Date": "02/00/1994",
+    "Console": "NES"
+  },
+  {
+    "Title": "Top Gear 3000",
+    "Date": "02/00/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mole Mania",
+    "Date": "02/00/1997",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+    "Date": "02/01/1992",
+    "Console": "NES"
+  },
+  {
+    "Title": "WCW Nitro",
+    "Date": "02/01/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Vigilante 8: 2nd Offense",
+    "Date": "02/01/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man X5",
+    "Date": "02/01/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "F-1 Race",
+    "Date": "02/03/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Sonic Advance",
+    "Date": "02/03/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Lode Runner",
+    "Date": "02/04/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Paper Mario",
+    "Date": "02/05/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Final Fantasy VI Advance",
+    "Date": "02/05/2007",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Diddy Kong Racing DS",
+    "Date": "02/05/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Zoo Tycoon 2 DS",
+    "Date": "02/05/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Assassin's Creed: Altair's Chronicles",
+    "Date": "02/05/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Wario Land: Super Mario Land 3",
+    "Date": "02/07/1994",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Street Fighter Alpha: Warriors' Dreams",
+    "Date": "02/07/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Resident Evil: Deadly Silence",
+    "Date": "02/07/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mario Party",
+    "Date": "02/08/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA Street V3",
+    "Date": "02/08/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Chibi-Robo!",
+    "Date": "02/08/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "James Bond 007",
+    "Date": "02/09/1998",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon",
+    "Date": "02/09/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Final Fantasy Crystal Chronicles",
+    "Date": "02/09/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Metroid: Zero Mission",
+    "Date": "02/09/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mario Kart 64",
+    "Date": "02/10/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA In The Zone '98",
+    "Date": "02/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Penny Racers",
+    "Date": "02/10/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Wario Land II",
+    "Date": "02/10/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Unreal II: The Awakening",
+    "Date": "02/10/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Professor Layton and the Curious Village",
+    "Date": "02/10/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Army Men: Air Attack",
+    "Date": "02/11/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Star Wars Racer Revenge",
+    "Date": "02/11/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Adventure 2: Battle",
+    "Date": "02/11/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Mario World: Super Mario Advance 2",
+    "Date": "02/11/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Super Mario Bros. 3",
+    "Date": "02/12/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ridge Racer 64",
+    "Date": "02/14/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "NHL 2K2",
+    "Date": "02/14/2002",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Star Fox: Assault",
+    "Date": "02/14/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "WarioWare: Touched!",
+    "Date": "02/14/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Age of Empires: The Age of Kings",
+    "Date": "02/14/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dragon Quest VI - Realms of Revelation",
+    "Date": "02/14/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Fire Emblem: Shadow Dragon",
+    "Date": "02/16/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "ECW Hardcore Revolution",
+    "Date": "02/17/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Magical Tetris Challenge",
+    "Date": "02/17/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "The Legend of Zelda: Ocarina of Time / Master Quest",
+    "Date": "02/17/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "007 Everything or Nothing",
+    "Date": "02/17/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "007: Everything or Nothing",
+    "Date": "02/17/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "James Bond 007: Everything or Nothing",
+    "Date": "02/17/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Dragon Quest V - Hand of the Heavenly Bride",
+    "Date": "02/17/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "NBA In The Zone 2000",
+    "Date": "02/18/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Starfighter",
+    "Date": "02/19/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Riders",
+    "Date": "02/21/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Riders",
+    "Date": "02/21/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Sonic Riders",
+    "Date": "02/21/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Gran Turismo 4",
+    "Date": "02/22/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Street Fighter Anniversary Collection",
+    "Date": "02/22/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Olympic Hockey '98",
+    "Date": "02/23/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Marvel Super Heroes vs. Street Fighter",
+    "Date": "02/23/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Army Men: Sarge's Heroes",
+    "Date": "02/23/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Sonic & SEGA All-Stars Racing",
+    "Date": "02/23/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mario Party 2",
+    "Date": "02/24/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "San Francisco Rush: Extreme Racing",
+    "Date": "02/25/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Jeopardy!",
+    "Date": "02/25/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Jet Set Radio Future",
+    "Date": "02/25/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Nester's Funky Bowling",
+    "Date": "02/26/1996",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "NHL Breakaway '98",
+    "Date": "02/26/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Spitfire Heroes - Tales of the Royal Air Force",
+    "Date": "02/26/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Super Princess Peach",
+    "Date": "02/27/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Kirby's Dream Course",
+    "Date": "02/28/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "FIFA 64 (FIFA Soccer 64)",
+    "Date": "02/28/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Army Men 3D",
+    "Date": "02/28/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Beetle Adventure Racing",
+    "Date": "02/28/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "California Speed",
+    "Date": "02/28/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Jeremy McGrath Supercross 2000",
+    "Date": "02/28/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "South Park Rally",
+    "Date": "02/28/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Gauntlet Legends",
+    "Date": "02/29/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "CyberTiger",
+    "Date": "02/29/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Hydro Thunder",
+    "Date": "02/29/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tony Hawk's Pro Skater",
+    "Date": "02/29/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rayman 2: The Great Escape",
+    "Date": "02/29/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Resident Evil- Code: Veronica",
+    "Date": "02/29/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Pro Wrestling",
+    "Date": "03/00/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Slalom",
+    "Date": "03/00/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Volleyball",
+    "Date": "03/00/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ice Hockey",
+    "Date": "03/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Marble Madness",
+    "Date": "03/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ninja Gaiden",
+    "Date": "03/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mega Man 6",
+    "Date": "03/00/1994",
+    "Console": "NES"
+  },
+  {
+    "Title": "Wolfenstein 3D",
+    "Date": "03/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mario's Picross",
+    "Date": "03/00/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Rampage 2: Universal Tour",
+    "Date": "03/00/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Devil May Cry 3: Dante's Awakening",
+    "Date": "03/01/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Star Wars: Republic Commando",
+    "Date": "03/01/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Wario Land II",
+    "Date": "03/02/1998",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Snowboard Kids 2",
+    "Date": "03/02/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rayman 3: Hoodlum Havoc",
+    "Date": "03/02/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Ninja Gaiden",
+    "Date": "03/02/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+    "Date": "03/02/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mega Man Battle Chip Challenge",
+    "Date": "03/02/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Metal Gear Solid 2: Substance",
+    "Date": "03/03/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Turok: Dinosaur Hunter",
+    "Date": "03/04/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Wario: Master of Disguise",
+    "Date": "03/05/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon Trozei!",
+    "Date": "03/06/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Burnout: Dominator",
+    "Date": "03/06/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Pokémon Black Version",
+    "Date": "03/06/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon White Version",
+    "Date": "03/06/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Hydro Thunder",
+    "Date": "03/07/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Sonic Advance 2",
+    "Date": "03/09/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Metal Gear Solid: The Twin Snakes",
+    "Date": "03/09/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recond: Advanced Warfighter",
+    "Date": "03/09/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Yoshi's Story",
+    "Date": "03/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars Jedi Starfighter",
+    "Date": "03/10/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man & Bass",
+    "Date": "03/10/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Castlevania Legends",
+    "Date": "03/11/1998",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "Date": "03/11/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Unreal Tounament",
+    "Date": "03/13/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "James Bond 007 in Agent Under Fire",
+    "Date": "03/13/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Pokémon Dash",
+    "Date": "03/13/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Aidyn Chronicles: The First Mage",
+    "Date": "03/14/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Donkey Kong Jungle Beat",
+    "Date": "03/14/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Yoshi Touch & Go",
+    "Date": "03/14/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six: Critical Hour",
+    "Date": "03/14/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Pokémon HeartGold Version",
+    "Date": "03/14/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon SoulSilver Version",
+    "Date": "03/14/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Zoda's Revenge: StarTropics II",
+    "Date": "03/15/1994",
+    "Console": "NES"
+  },
+  {
+    "Title": "Snowboard Kids",
+    "Date": "03/15/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Monkey Ball Deluxe",
+    "Date": "03/15/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man Anniversary Collection",
+    "Date": "03/15/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Super Monkey Ball Deluxe",
+    "Date": "03/15/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon 2",
+    "Date": "03/15/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon: Jungle Storm",
+    "Date": "03/16/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Vigilante 8",
+    "Date": "03/17/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Grand Theft Auto: Chinatown Wars",
+    "Date": "03/17/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Rayman 3: Hoodlum Havoc",
+    "Date": "03/18/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Rayman 3: Hoodlum Havoc",
+    "Date": "03/18/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Pokémon Ruby Version",
+    "Date": "03/19/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pokémon Sapphire Version",
+    "Date": "03/19/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Myst IV: Revelation",
+    "Date": "03/20/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Tetris DS",
+    "Date": "03/20/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Metroid Prime Hunters",
+    "Date": "03/20/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "TimeSplitters: Future Perfect",
+    "Date": "03/21/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "TimeSplitters: Future Perfect",
+    "Date": "03/21/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "3D Tetris",
+    "Date": "03/22/1996",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Triple Play 2000",
+    "Date": "03/22/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Colosseum",
+    "Date": "03/22/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "God of War",
+    "Date": "03/22/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Pokémon Platinum Version",
+    "Date": "03/22/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Lego Star Wars III: The Clone Wars",
+    "Date": "03/22/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Star Fox",
+    "Date": "03/23/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Final Fantasy XI",
+    "Date": "03/23/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "Date": "03/23/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Blazing Angels: Squadrons of WWII",
+    "Date": "03/23/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Blast Corps",
+    "Date": "03/24/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Quake 64",
+    "Date": "03/24/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Micro Machines 64 Turbo",
+    "Date": "03/24/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Street Fighter Alpha",
+    "Date": "03/24/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "The Legend of Zelda: The Wind Waker",
+    "Date": "03/24/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Final Fantasy Crystal Chronicles: Echoes of Time",
+    "Date": "03/24/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mickey's Speedway USA",
+    "Date": "03/25/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Donald Duck: Goin' Quackers",
+    "Date": "03/25/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "RollerCoaster Tycoon",
+    "Date": "03/25/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Lode Runner 3-D",
+    "Date": "03/26/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Stadium",
+    "Date": "03/26/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Stadium 2",
+    "Date": "03/26/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rayman Rush",
+    "Date": "03/26/2002",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "007: Agent Under Fire",
+    "Date": "03/26/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Top Gear Hyper-Bike",
+    "Date": "03/27/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tomb Raider: The Last Revelation",
+    "Date": "03/27/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "Date": "03/28/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mario Party Advance",
+    "Date": "03/28/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon Advanced Warfighter",
+    "Date": "03/28/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Kingdom Hearts II",
+    "Date": "03/28/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "WarioWare D.I.Y.",
+    "Date": "03/28/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "America's Test Kitchen: Let's Get Cooking",
+    "Date": "03/28/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Lego Star Wars: The Video Game",
+    "Date": "03/29/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Resident Evil",
+    "Date": "03/30/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Rampage World Tour",
+    "Date": "03/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Battlezone: Rise of the Black Dogs",
+    "Date": "03/30/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Worms Armageddon",
+    "Date": "03/30/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Army Men: World War - Final Front",
+    "Date": "03/30/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Rampage 2:Universal Tour",
+    "Date": "03/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Star Wars Episode I: Jedi Power Battles",
+    "Date": "03/31/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "All-Star Baseball 2001",
+    "Date": "03/31/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Backyard Baseball",
+    "Date": "03/31/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Resident Evil: Outbreak",
+    "Date": "03/31/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "Date": "03/31/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "Date": "03/31/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Game & Watch Collection",
+    "Date": "03/31/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Super C",
+    "Date": "04/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Pac-Man",
+    "Date": "04/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Yoshi's Cookie",
+    "Date": "04/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Kirby's Star Stacker",
+    "Date": "04/00/1997",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Bomberman GB",
+    "Date": "04/00/1998",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Wolfenstein 3D",
+    "Date": "04/00/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Yoshi's Cookie",
+    "Date": "04/01/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "1080° Snowboarding",
+    "Date": "04/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Soccer",
+    "Date": "04/02/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Lego Star Wars: The Video Game",
+    "Date": "04/02/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Doom 3",
+    "Date": "04/03/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Final Fantasy Fables: Chocobo Tales",
+    "Date": "04/03/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Doom 64",
+    "Date": "04/04/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Army Men: World War",
+    "Date": "04/04/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Star Wars Episode I Racer",
+    "Date": "04/04/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Star Wars: Episode III: Revenge of the Sith",
+    "Date": "04/04/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "NHL Pro '99 (NHL Blades of Steel '99)",
+    "Date": "04/05/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Lego Star Wars: The Video Game",
+    "Date": "04/05/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Rhythm Heaven",
+    "Date": "04/05/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Contra III: The Alien Wars",
+    "Date": "04/06/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "WarioWare, Inc.: Mega Party Game$",
+    "Date": "04/06/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "NBA Pro '99 (NBA In The Zone '99)",
+    "Date": "04/07/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "All-Star Baseball 2000",
+    "Date": "04/08/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Dr. Mario 64",
+    "Date": "04/08/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell",
+    "Date": "04/08/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Burnout 2: Point of Impact",
+    "Date": "04/09/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Yoshi's Cookie",
+    "Date": "04/10/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Pokémon Trading Card Game",
+    "Date": "04/10/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell",
+    "Date": "04/10/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Odama",
+    "Date": "04/10/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Kirby Tilt 'n' Tumble",
+    "Date": "04/11/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Tomb Raider: Legend",
+    "Date": "04/11/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tomb Raider: Legend",
+    "Date": "04/11/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "The Legend of Zelda: A Link to the Past",
+    "Date": "04/13/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Bottom of the 9th",
+    "Date": "04/14/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Chameleon Twist 2",
+    "Date": "04/14/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Bio F.R.E.A.K.S.",
+    "Date": "04/15/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Crash Bandicoot: The Wrath of Cortex",
+    "Date": "04/15/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Spider-Man",
+    "Date": "04/15/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Phantasy Star Online Episode I & II",
+    "Date": "04/15/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Ikaruga",
+    "Date": "04/15/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Top Gear",
+    "Date": "04/16/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mystical Ninja Starring Goemon",
+    "Date": "04/16/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Brain Age: Train Your Brain in Minutes a Day!",
+    "Date": "04/16/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Super Metroid",
+    "Date": "04/18/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Unreal Championship 2: The Liandri Confilc",
+    "Date": "04/18/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Pokémon Mystery Dungeon: Explorers of Time",
+    "Date": "04/20/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon Mystery Dungeon: Explorers of Darkness",
+    "Date": "04/20/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Star Wars: The Clone Wars",
+    "Date": "04/22/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Pokémon Diamond Version",
+    "Date": "04/22/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon Pearl Version",
+    "Date": "04/22/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Metal Gear Solid",
+    "Date": "04/24/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Kirby's Avalanche",
+    "Date": "04/25/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Ace Combat Zero: The Belkan War",
+    "Date": "04/25/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "WinBack 2: Project Poseidon",
+    "Date": "04/25/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "WinBack 2: Project Poseidon",
+    "Date": "04/25/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Sega Game Gear releases",
+    "Date": "04/26/1991",
+    "Console": ""
+  },
+  {
+    "Title": "Super Smash Bros.",
+    "Date": "04/26/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Resident Evil Outbreak: File #2",
+    "Date": "04/26/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "All-Star Baseball '99",
+    "Date": "04/27/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Kobe Bryant in NBA Courtside",
+    "Date": "04/27/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "The Lost Vikings",
+    "Date": "04/29/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Burnout",
+    "Date": "04/29/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Forsaken",
+    "Date": "04/30/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "AeroGauge",
+    "Date": "04/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Bust-A-Move 2: Arcade Edition",
+    "Date": "04/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Forsaken 64",
+    "Date": "04/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Street Fighter Alpha 3",
+    "Date": "04/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "A Bug's Life",
+    "Date": "04/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Bust-A-Move 3 DX (Bust-A-Move '99)",
+    "Date": "04/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Charlie Blast's Territory",
+    "Date": "04/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Fighting Force 64",
+    "Date": "04/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Excitebike 64",
+    "Date": "04/30/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Burnout",
+    "Date": "04/30/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Resident Evil",
+    "Date": "04/30/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Castlevania",
+    "Date": "05/00/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Final Fantasy",
+    "Date": "05/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "Date": "05/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Marble Madness",
+    "Date": "05/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Kirby's Block Ball",
+    "Date": "05/00/1996",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Game & Watch Gallery",
+    "Date": "05/00/1997",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Kirby's Adventure",
+    "Date": "05/01/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Kirby's Dream Land 2",
+    "Date": "05/01/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Burnout 2: Point of Impact",
+    "Date": "05/01/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Pokémon Emerald",
+    "Date": "05/01/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Red Dead Revolver",
+    "Date": "05/03/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Forza Motorsport",
+    "Date": "05/03/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Picross 3D",
+    "Date": "05/03/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Lost Vikings 2",
+    "Date": "05/04/1997",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Star Wars: Episode III - Revenge of the Sith",
+    "Date": "05/04/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Star Wars: Episode III - Revenge of the Sith",
+    "Date": "05/04/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Star Wars: Episode III - Revenge of the Sith",
+    "Date": "05/04/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dementium II",
+    "Date": "05/04/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "R4: Ridge Racer Type 4",
+    "Date": "05/05/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Crosswords DS",
+    "Date": "05/05/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Return to Castle Wolfenstein: Tides of War",
+    "Date": "05/06/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Castlevania: Aria of Sorrow",
+    "Date": "05/06/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mario Party 3",
+    "Date": "05/07/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six",
+    "Date": "05/09/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Donkey Konga 2",
+    "Date": "05/09/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Ken Griffey Jr.'s Slugfest",
+    "Date": "05/10/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Mario Bros. Deluxe",
+    "Date": "05/10/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Gran Turismo",
+    "Date": "05/12/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Super Mario RPG: Legend of the Seven Stars",
+    "Date": "05/13/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Star Wars: Jedi Starfighter",
+    "Date": "05/13/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Bomberman Max: Blue Champion",
+    "Date": "05/14/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Bomberman Max: Red Challenger",
+    "Date": "05/14/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "The Legend of Zelda: Oracle of Seasons",
+    "Date": "05/14/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "The Legend of Zelda: Oracle of Ages",
+    "Date": "05/14/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "ClayFighter: Sculptor's Cut",
+    "Date": "05/15/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "New Super Mario Bros.",
+    "Date": "05/15/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "World Cup '98",
+    "Date": "05/18/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars Episode I: Racer",
+    "Date": "05/18/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "War Gods",
+    "Date": "05/21/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Perfect Dark",
+    "Date": "05/22/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Fire Emblem: The Sacred Stones",
+    "Date": "05/23/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "WarioWare: Twisted!",
+    "Date": "05/23/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Nightmare Creatures II",
+    "Date": "05/24/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Mario VS Donkey Kong",
+    "Date": "05/24/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Date": "05/25/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Personal Trainer: Walking",
+    "Date": "05/25/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tetris Party Deluxe",
+    "Date": "05/25/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "WarioWare Inc.: Mega Microgame$!",
+    "Date": "05/26/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Secret Agent Clank",
+    "Date": "05/26/2009",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Bomberman 64: The Second Attack!",
+    "Date": "05/28/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Medal of Honor: Frontline",
+    "Date": "05/29/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Date": "05/29/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Date": "05/29/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Gauntlet Legends",
+    "Date": "05/30/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Wario Land 3",
+    "Date": "05/30/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Star Wars: Episode II - Attack of the Clones",
+    "Date": "05/30/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Hexen",
+    "Date": "05/31/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Bio F.R.E.A.K.S.",
+    "Date": "05/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Major League Baseball Featuring Ken Griffey, Jr.",
+    "Date": "05/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Shadowgate 64: Trials of the Four Towers",
+    "Date": "05/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Superman 64",
+    "Date": "05/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "World Driver Championship",
+    "Date": "05/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Street Fighter EX2 Plus",
+    "Date": "05/31/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Street Fighter Alpha 3",
+    "Date": "05/31/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Metal Gear",
+    "Date": "06/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mega Man 2",
+    "Date": "06/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles",
+    "Date": "06/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "Boulder Dash",
+    "Date": "06/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Rad Racer II",
+    "Date": "06/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Battletoads",
+    "Date": "06/00/1991",
+    "Console": "NES"
+  },
+  {
+    "Title": "Battletoads & Double Dragon",
+    "Date": "06/00/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mario is Missing!",
+    "Date": "06/00/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mario's Time Machine",
+    "Date": "06/00/1994",
+    "Console": "NES"
+  },
+  {
+    "Title": "Off Road Challenge",
+    "Date": "06/00/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Cars 2",
+    "Date": "06/00/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong",
+    "Date": "06/01/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Donkey Kong Jr.",
+    "Date": "06/01/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mario Bros.",
+    "Date": "06/01/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Yoshi",
+    "Date": "06/01/1992",
+    "Console": "NES"
+  },
+  {
+    "Title": "Holy Magic Century (Quest 64)",
+    "Date": "06/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sonic Pinball Party",
+    "Date": "06/01/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Shantae",
+    "Date": "06/02/2002",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Date": "06/02/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Classic NES Series: Donkey Kong",
+    "Date": "06/02/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Classic NES Series: Excitebike",
+    "Date": "06/02/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Classic NES Series: Ice Climber",
+    "Date": "06/02/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Classic NES Series: The Legend of Zelda",
+    "Date": "06/02/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Classic NES Series: Super Mario Bros.",
+    "Date": "06/02/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Bomberman Generation",
+    "Date": "06/03/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Resident Evil Gaiden",
+    "Date": "06/03/2002",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Space Channel 5",
+    "Date": "06/04/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Nintendo DS Browser",
+    "Date": "06/04/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Planet Puzzle League",
+    "Date": "06/04/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Earthbound",
+    "Date": "06/05/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Big Brain Academy",
+    "Date": "06/05/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Magnetica",
+    "Date": "06/05/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong 3",
+    "Date": "06/06/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Donkey Kong Jr. Math",
+    "Date": "06/06/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Popeye",
+    "Date": "06/06/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "The Elder Scrolls III: Morrowind",
+    "Date": "06/06/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Cars",
+    "Date": "06/06/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Cars",
+    "Date": "06/06/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Legend of Zelda: Four Swords Adventures",
+    "Date": "06/07/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Sonic Advance 3",
+    "Date": "06/07/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Medal of Honor: European Assault",
+    "Date": "06/07/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Medal of Honor: European Assault",
+    "Date": "06/07/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Medal of Honor: European Assault",
+    "Date": "06/07/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Conker's Pocket Tales",
+    "Date": "06/08/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Tomb Raider",
+    "Date": "06/08/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "The Legendary Starfy",
+    "Date": "06/08/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man Zero Collection",
+    "Date": "06/08/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Rampage Through Time",
+    "Date": "06/09/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Indy Racing 2000",
+    "Date": "06/09/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Nightmare Creatures II",
+    "Date": "06/09/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Donkey Kong Country",
+    "Date": "06/09/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Virtual Chess 64",
+    "Date": "06/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Battle Network 5 Team Colonel",
+    "Date": "06/10/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Battle Network 5 Team Proto Man",
+    "Date": "06/10/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "X-Men vs. Street Fighter",
+    "Date": "06/11/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Super Mario Advance",
+    "Date": "06/11/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "F-Zero: Maximum Velocity",
+    "Date": "06/11/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Castlevania: Circle of the Moon",
+    "Date": "06/11/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Wetrix",
+    "Date": "06/12/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Starcraft 64",
+    "Date": "06/12/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Yoshi Topsy-Turvy",
+    "Date": "06/13/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Kirby Canvas Curse",
+    "Date": "06/13/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Street Fighter Alpha Anthology",
+    "Date": "06/13/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man Battle Network 6 Cybeast Gregar",
+    "Date": "06/13/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Battle Network 6 Cybeast Falzar",
+    "Date": "06/13/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "PGA European Tour",
+    "Date": "06/15/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "100 Classic Book Collection",
+    "Date": "06/15/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mike Piazza's Strike Zone",
+    "Date": "06/16/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "Date": "06/16/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six 3",
+    "Date": "06/16/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Chopper Attack",
+    "Date": "06/17/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Battle Network 2",
+    "Date": "06/17/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Resident Evil: Dead Aim",
+    "Date": "06/17/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man Network Transmission",
+    "Date": "06/17/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Dawn of Discovery",
+    "Date": "06/17/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Balloon Fight",
+    "Date": "06/18/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Sonic Adventure 2",
+    "Date": "06/18/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Twisted Metal: Black",
+    "Date": "06/18/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Adventure DX: Director's Cut",
+    "Date": "06/18/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Pokémon Conquest",
+    "Date": "06/18/2012",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Street Fighter III",
+    "Date": "06/19/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "SimCity DS",
+    "Date": "06/19/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tomb Raider: The Angel of Darkness",
+    "Date": "06/20/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Chrono Trigger",
+    "Date": "06/21/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Conker: Live & Reloaded",
+    "Date": "06/21/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "F1 2002",
+    "Date": "06/22/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario Golf: Advance Tour",
+    "Date": "06/22/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mortal Kombat 4",
+    "Date": "06/23/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Anniversary Collection",
+    "Date": "06/23/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mortal Kombat 4",
+    "Date": "06/24/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Eternal Darkness: Sanity's Requiem",
+    "Date": "06/24/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Wario World",
+    "Date": "06/24/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "GameBoy Player",
+    "Date": "06/24/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Advance Wars 2: Black Hole Rising",
+    "Date": "06/24/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Battle Network 3 Blue",
+    "Date": "06/24/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Battle Network 3 White",
+    "Date": "06/24/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Star Force 2: Zerker X Ninja",
+    "Date": "06/24/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man Star Force 2: Zerker X Saurian",
+    "Date": "06/24/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Final Fantasy Tactics A2: Grimoire of the Rift",
+    "Date": "06/24/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tomb Raider: Curse of the Sword",
+    "Date": "06/25/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Date": "06/25/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Lego Harry Potter: Years 1-4",
+    "Date": "06/25/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong Land",
+    "Date": "06/26/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Ultimate Mortal Kombat 3",
+    "Date": "06/26/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Kirby 64: The Crystal Shards",
+    "Date": "06/26/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sudoku Gridmaster",
+    "Date": "06/26/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man Battle Network 4 Blue Moon",
+    "Date": "06/27/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Battle Network 4 Red Sun",
+    "Date": "06/27/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Ratatouille",
+    "Date": "06/27/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong",
+    "Date": "06/28/1994",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Pokémon Pinball",
+    "Date": "06/28/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell - Chaos Theory",
+    "Date": "06/28/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Battletoads in Battlemaniacs",
+    "Date": "06/29/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Banjo-Kazooie",
+    "Date": "06/29/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Command & Conquer",
+    "Date": "06/29/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rugrats: Treasure Hunt (Rugrats: Scavenger Hunt)",
+    "Date": "06/29/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Fox 64 (Lylat Wars)",
+    "Date": "06/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Monaco Grand Prix",
+    "Date": "06/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Monster Truck Madness 64",
+    "Date": "06/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Snap",
+    "Date": "06/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Quake II",
+    "Date": "06/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Starshot: Space Circus Fever",
+    "Date": "06/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rally Challenge 2000",
+    "Date": "06/30/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Star Force 3: Black Ace",
+    "Date": "06/30/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man Star Force 3: Red Joker",
+    "Date": "06/30/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Date": "06/30/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Gargoyle's Quest: Ghosts 'n Goblins",
+    "Date": "07/00/1990",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Wave Race",
+    "Date": "07/00/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Yoshi",
+    "Date": "07/00/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mario is Missing!",
+    "Date": "07/00/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Kid Icarus",
+    "Date": "07/01/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Trauma Center - Under the Knife 2",
+    "Date": "07/01/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "SimCity 2000",
+    "Date": "07/06/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Dark Rift",
+    "Date": "07/10/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Gran Turismo 3: A-Spec",
+    "Date": "07/10/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Date": "07/10/2007",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Chicken Shoot",
+    "Date": "07/10/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dragon Quest IX - Sentinels of the Starry Skies",
+    "Date": "07/11/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon Box: Ruby and Sapphire",
+    "Date": "07/12/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows - Part 2",
+    "Date": "07/12/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tales of Symphonia",
+    "Date": "07/13/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mega Man Legends",
+    "Date": "07/14/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Fighter Destiny 2",
+    "Date": "07/14/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Street Fighter II: The World Warrior",
+    "Date": "07/15/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Star Wars: Knights of the Old Republic",
+    "Date": "07/15/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Super Street Fighter II: The New Challengers",
+    "Date": "07/18/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mission: Impossible",
+    "Date": "07/18/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Army Men: Air Combat",
+    "Date": "07/19/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "Date": "07/20/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Final Fantasy IV",
+    "Date": "07/22/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mario Golf",
+    "Date": "07/26/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Turok 3: Shadow of Oblivion",
+    "Date": "07/27/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Waialae Country Club: True Golf Classics",
+    "Date": "07/29/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Crystal",
+    "Date": "07/29/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Mario Golf: Toadstool Tour",
+    "Date": "07/29/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Bass Hunter 64 (In-Fisherman Bass Hunter 64)",
+    "Date": "07/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Picross DS",
+    "Date": "07/30/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tetris",
+    "Date": "07/31/1989",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Alleyway",
+    "Date": "07/31/1989",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Baseball",
+    "Date": "07/31/1989",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Super Mario Land",
+    "Date": "07/31/1989",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Tennis",
+    "Date": "07/31/1989",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "International Superstar Soccer 64",
+    "Date": "07/31/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "F-1 World Grand Prix",
+    "Date": "07/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Flying Dragon",
+    "Date": "07/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Iggy's Reckin' Balls",
+    "Date": "07/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "The New Tetris",
+    "Date": "07/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "WWF Attitude",
+    "Date": "07/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Daikatana",
+    "Date": "07/31/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Gumshoe",
+    "Date": "08/00/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mach Rider",
+    "Date": "08/00/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Urban Champion",
+    "Date": "08/00/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "World Class Track Meet",
+    "Date": "08/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Punch-Out!! Featuring Mr. Dream",
+    "Date": "08/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ninja Gaiden III: The Ancient Ship of Doom",
+    "Date": "08/00/1991",
+    "Console": "NES"
+  },
+  {
+    "Title": "Castlevania II: Belmont's Revenge",
+    "Date": "08/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Final Fantasy Legend III",
+    "Date": "08/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "The Legend of Zelda: Link's Awakening",
+    "Date": "08/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Tetris 2",
+    "Date": "08/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Tetris Attack",
+    "Date": "08/00/1996",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mario Paint",
+    "Date": "08/01/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Kirby's Dream Land",
+    "Date": "08/01/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Super Mario All-Stars",
+    "Date": "08/01/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Gex 64: Enter the Gecko",
+    "Date": "08/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pac-Man: Special Color Edition",
+    "Date": "08/01/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Super Monkey Ball Adventure",
+    "Date": "08/01/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Super Monkey Ball Adventure",
+    "Date": "08/01/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon 2: Summit Strike",
+    "Date": "08/02/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Dirge of Cerberus: Final Fantasy VII",
+    "Date": "08/02/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "International Superstar Soccer 2000",
+    "Date": "08/03/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Lego Star Wars II: The Original Trilogy",
+    "Date": "08/03/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tetris Attack",
+    "Date": "08/04/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six 3: Black Arrow",
+    "Date": "08/04/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Okami",
+    "Date": "08/04/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Final Fantasy Mystic Quest",
+    "Date": "08/05/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Silent Hill 3",
+    "Date": "08/05/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "The Legend of Spyro: A New Beginning",
+    "Date": "08/05/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon: Island Thunder",
+    "Date": "08/06/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Mortal Kombat: Armageddon",
+    "Date": "08/06/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Bully",
+    "Date": "08/07/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man Star Force: Leo",
+    "Date": "08/07/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man Star Force: Pegasus",
+    "Date": "08/07/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mega Man Star Force: Dragon",
+    "Date": "08/07/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Top Gear 2",
+    "Date": "08/08/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Double Agent",
+    "Date": "08/08/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Final Fantasy XII",
+    "Date": "08/09/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Call of Duty 3",
+    "Date": "08/10/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Chrono Trigger",
+    "Date": "08/11/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Tetrisphere",
+    "Date": "08/11/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "WWF War Zone",
+    "Date": "08/11/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Guitar Hero II",
+    "Date": "08/11/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Rayman Raving Rabbids",
+    "Date": "08/12/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Street Fighter II Turbo: Hyper Fighting",
+    "Date": "08/13/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "God of War II",
+    "Date": "08/13/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mario's Tennis",
+    "Date": "08/14/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Galactic Pinball",
+    "Date": "08/14/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Red Alarm",
+    "Date": "08/14/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Teleroboxer",
+    "Date": "08/14/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Medal of Honor: Vangaurd",
+    "Date": "08/14/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Heroes of Mana",
+    "Date": "08/14/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Metroid",
+    "Date": "08/15/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+    "Date": "08/15/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Chrono Cross",
+    "Date": "08/15/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Geist",
+    "Date": "08/15/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Tomb Raider: Anniversary",
+    "Date": "08/15/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Gems Collection",
+    "Date": "08/16/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Date": "08/16/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "NFL Blitz 2000",
+    "Date": "08/17/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Guitar Hero Encore: Rocks the 80s",
+    "Date": "08/17/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Re-Volt",
+    "Date": "08/18/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "The Legend of Spyro: The Eternal Night",
+    "Date": "08/18/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Guitar Hero III: Legends of Rock",
+    "Date": "08/19/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tony Hawk's Pro Skater 3",
+    "Date": "08/20/2002",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sonic Riders: Zero Gravity",
+    "Date": "08/20/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Brain Age 2: More Training in Minutes a Day!",
+    "Date": "08/20/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tony Hawk's Pro Skater 2",
+    "Date": "08/21/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Twisted Metal: Head-On",
+    "Date": "08/21/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "The Legend of Zelda",
+    "Date": "08/22/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Nintendogs: Labrador & Friends",
+    "Date": "08/22/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Nintendogs: Chihuahua & Friends",
+    "Date": "08/22/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Nintendogs: Dachshund & Friends",
+    "Date": "08/22/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Advance Wars: Dual Strike",
+    "Date": "08/22/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Silent Hill: Origins",
+    "Date": "08/22/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "F-Zero",
+    "Date": "08/23/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Gradius III",
+    "Date": "08/23/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Pilotwings",
+    "Date": "08/23/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "SimCity",
+    "Date": "08/23/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Super Mario World",
+    "Date": "08/23/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Ratchet & Clank: Size Matters",
+    "Date": "08/23/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "NFL Blitz 2000",
+    "Date": "08/24/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "NFL QB Club 2001",
+    "Date": "08/24/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Guitar Hero: Aerosmith",
+    "Date": "08/24/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Professor Layton and the Diabolical Box",
+    "Date": "08/24/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "GoldenEye 007",
+    "Date": "08/25/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tetris Plus",
+    "Date": "08/25/1997",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Super Mario Sunshine",
+    "Date": "08/25/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Monkey Ball 2",
+    "Date": "08/25/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Pokémon Pinball: Ruby and Sapphire",
+    "Date": "08/25/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mortal Kombat: Tournament Edition",
+    "Date": "08/25/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Star Wars: The Force Unleashed",
+    "Date": "08/25/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "NFL Quarterback Club 2000",
+    "Date": "08/26/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "F-Zero GX",
+    "Date": "08/26/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mortal Kombat Kollection",
+    "Date": "08/26/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "AeroWings 2: Air Strike",
+    "Date": "08/27/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Mario Kart: Super Circuit",
+    "Date": "08/27/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Soulcalibur II",
+    "Date": "08/27/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Soul Calibur II",
+    "Date": "08/27/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Soulcalibur II",
+    "Date": "08/27/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Shadow of the Colossus",
+    "Date": "08/27/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Madden NFL 2001",
+    "Date": "08/28/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mario Tennis",
+    "Date": "08/28/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Perfect Dark",
+    "Date": "08/28/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Mario Tennis",
+    "Date": "08/28/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Star Fox Command",
+    "Date": "08/28/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Legend of Spyro: Dawn of the Dragon",
+    "Date": "08/28/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sega GT",
+    "Date": "08/29/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Mario Superstar Baseball",
+    "Date": "08/29/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Guitar Hero World Tour",
+    "Date": "08/29/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Killer Instinct",
+    "Date": "08/30/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Resident Evil Survivor",
+    "Date": "08/30/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Pikmin 2",
+    "Date": "08/30/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Matchbox Missions: Air, Land and Sea Rescue / Emergency Response",
+    "Date": "08/30/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "007 Quantum of Solace",
+    "Date": "08/30/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "War Craft II: The Dark Saga",
+    "Date": "08/31/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "MRC: Multi-Racing Championship",
+    "Date": "08/31/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "S.C.A.R.S.",
+    "Date": "08/31/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "GT 64: Championship Edition",
+    "Date": "08/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Dino Crisis",
+    "Date": "08/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "All Star Tennis '99",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "BattleTanx: Global Assault",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Gauntlet Legends",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Hot Wheels Turbo Racing",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Hybrid Heaven",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Madden NFL 2000",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Shadow Man",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tonic Trouble",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "V-Rally Edition '99",
+    "Date": "08/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Turok: Evolution",
+    "Date": "08/31/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Turok: Evolution",
+    "Date": "08/31/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Street Fighter Anniversary Collection",
+    "Date": "08/31/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Call of Duty: World at War - Final Fronts",
+    "Date": "08/31/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Castlevania",
+    "Date": "09/00/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Double Dribble",
+    "Date": "09/00/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Castlevania III: Dracula's Curse",
+    "Date": "09/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Contra Force",
+    "Date": "09/00/1992",
+    "Console": "NES"
+  },
+  {
+    "Title": "Super Bomberman",
+    "Date": "09/00/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mario's Early Years! Fun with Letters",
+    "Date": "09/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Super Bomberman 2",
+    "Date": "09/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mortal Kombat II",
+    "Date": "09/00/1994",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mega Man V",
+    "Date": "09/00/1994",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Street Fighter II",
+    "Date": "09/00/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Donkey Kong Land 2",
+    "Date": "09/00/1996",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Monaco Grand Prix",
+    "Date": "09/00/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super R-Type",
+    "Date": "09/01/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Super Mario Kart",
+    "Date": "09/01/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Illusion of Gaia",
+    "Date": "09/01/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Castlevania: Dracula X",
+    "Date": "09/01/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Doom",
+    "Date": "09/01/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Bomberman Hero",
+    "Date": "09/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Duke Nukem Zero Hour",
+    "Date": "09/01/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sonic Unleashed",
+    "Date": "09/01/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sega GT 2002",
+    "Date": "09/02/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Tomb Raider: Underworld",
+    "Date": "09/02/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Yoshi's Safari",
+    "Date": "09/03/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Guitar Hero: Metallica",
+    "Date": "09/03/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Guitar Hero Smash Hits",
+    "Date": "09/04/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Date": "09/05/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Turok 3: Shadow of Oblivion",
+    "Date": "09/06/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "San Francisco Rush 2049",
+    "Date": "09/06/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six: Lockdown",
+    "Date": "09/06/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six: Lockdown",
+    "Date": "09/06/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Guitar Hero 5",
+    "Date": "09/06/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Rayman",
+    "Date": "09/07/1995",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Final Fantasy VII",
+    "Date": "09/07/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "San Francisco Rush 2049",
+    "Date": "09/07/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Silent Hill 4: The Room",
+    "Date": "09/07/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Silent Hill 4: The Room",
+    "Date": "09/07/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Star Wars: The Clone Wars Republic Heroes",
+    "Date": "09/07/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Spore Creatures",
+    "Date": "09/07/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Final Fantasy Tactics Advance",
+    "Date": "09/08/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Burnout 3: Takedown",
+    "Date": "09/08/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Burnout 3: Takedown",
+    "Date": "09/08/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Guitar Hero: Van Halen",
+    "Date": "09/08/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mystery Case Files: MillionHeir",
+    "Date": "09/08/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mortal Kombat II",
+    "Date": "09/09/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Ridge Racer",
+    "Date": "09/09/1995",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Street Fighter: The Movie",
+    "Date": "09/09/1995",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Crash Bandicoot",
+    "Date": "09/09/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "NFL Blitz",
+    "Date": "09/09/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Final Fantasy VIII",
+    "Date": "09/09/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "AeroWings",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Airforce Delta",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "The House of the Dead 2",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Hydro Thunder",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Monaco Grand Prix",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Mortal Kombat Gold",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Sonic Adventure",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Soulcalibur",
+    "Date": "09/09/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Dino Stalker",
+    "Date": "09/09/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man Zero",
+    "Date": "09/09/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pokémon FireRed Version",
+    "Date": "09/09/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pokémon LeafGreen Version",
+    "Date": "09/09/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Silent Hill: Shattered Memories",
+    "Date": "09/09/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Spyro the Dragon",
+    "Date": "09/10/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "NFL Blitz",
+    "Date": "09/10/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Ecco the Dolphin: Defender of the Future",
+    "Date": "09/10/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Advance Wars",
+    "Date": "09/10/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "DK Jungle Climber",
+    "Date": "09/10/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Virtual League Baseball",
+    "Date": "09/11/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "NASCAR '99",
+    "Date": "09/11/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mario Hoops 3-on-3",
+    "Date": "09/11/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "NFL Blitz 2001",
+    "Date": "09/12/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Rat Attack!",
+    "Date": "09/12/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Madden NFL 2002",
+    "Date": "09/12/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Banjo-Kazooie: Grunty's Revenge",
+    "Date": "09/12/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Lego Star Wars II: The Original Trilogy",
+    "Date": "09/12/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Lego Star Wars II: The Original Trilogy",
+    "Date": "09/12/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man ZX",
+    "Date": "09/12/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Cooking Mama",
+    "Date": "09/12/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "MechAssault - Phantom War",
+    "Date": "09/12/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Professor Layton and the Unwound Future",
+    "Date": "09/12/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mortal Kombat",
+    "Date": "09/13/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mortal Kombat",
+    "Date": "09/13/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Burnout Revenge",
+    "Date": "09/13/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Burnout Revenge",
+    "Date": "09/13/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Super Punch-Out!!",
+    "Date": "09/14/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "NFL Blitz 2001",
+    "Date": "09/14/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sly 2: Band of Thieves",
+    "Date": "09/14/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Gradius V",
+    "Date": "09/14/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "International Superstar Soccer '98",
+    "Date": "09/15/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mystical Ninja Starring Goemon 2 (Goemon's Great Adventure)",
+    "Date": "09/15/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Army Men: World War - Land, Sea, Air",
+    "Date": "09/15/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Rayman 2: The Great Escape",
+    "Date": "09/15/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Animal Crossing",
+    "Date": "09/15/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Phantasy Star Online Episode I & II Plus",
+    "Date": "09/15/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario & Luigi: Bowser's Inside Story",
+    "Date": "09/15/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Daffy Duck Starring as Duck Dodgers (Duck Dodgers Starring Daffy Duck)",
+    "Date": "09/16/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Castlevania: Harmony of Dissonance",
+    "Date": "09/16/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "GameBoy Advance e-Reader",
+    "Date": "09/16/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Dino Crisis 3",
+    "Date": "09/16/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Drome Racers",
+    "Date": "09/16/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mortal Kombat: Shaolin Monks",
+    "Date": "09/16/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mortal Kombat: Shaolin Monks",
+    "Date": "09/16/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Star Wars: The Force Unleashed",
+    "Date": "09/16/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dragon Quest IV - Chapters of the Chosen",
+    "Date": "09/16/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Kingdom Hearts",
+    "Date": "09/17/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Myst III: Exile",
+    "Date": "09/17/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "007: The World Is Not Enough",
+    "Date": "09/18/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "Date": "09/18/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pokémon Mystery Dungeon: Blue Rescue Team",
+    "Date": "09/18/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Glover",
+    "Date": "09/19/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Duke Nukem: Land of the Babes",
+    "Date": "09/19/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Battalion Wars",
+    "Date": "09/19/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "DK: King of Swing",
+    "Date": "09/19/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Dragon Quest Heroes - Rocket Slime",
+    "Date": "09/19/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Kirby Mass Attack",
+    "Date": "09/19/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dragon Quest Monsters - Joker 2",
+    "Date": "09/19/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Kirby Super Star",
+    "Date": "09/20/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Star Wars: Battlefront",
+    "Date": "09/20/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "F-Zero: GP Legend",
+    "Date": "09/20/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Ninja Gaiden Black",
+    "Date": "09/20/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "WCW Mayhem",
+    "Date": "09/21/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Battlefront",
+    "Date": "09/21/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man X: Command Mission",
+    "Date": "09/21/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Star Wars Trilogy: Apprentice of the Force",
+    "Date": "09/21/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Star Fox Adventures",
+    "Date": "09/22/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "SimCity Creator",
+    "Date": "09/22/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Kirby Super Star Ultra",
+    "Date": "09/22/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Sly Cooper and the Thievius Raccoonus",
+    "Date": "09/23/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Alone in the Dark: The New Nightmare",
+    "Date": "09/24/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Ico",
+    "Date": "09/24/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Silent Hill 2",
+    "Date": "09/24/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Rayman Arena",
+    "Date": "09/24/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Rayman Arena",
+    "Date": "09/24/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Yoshi's Island: Super Mario Advance 3",
+    "Date": "09/24/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man X4",
+    "Date": "09/25/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Pokémon Puzzle League",
+    "Date": "09/25/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Phantasy Star Online Version 2",
+    "Date": "09/25/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Mario vs. Donkey Kong 2: March of the Minis",
+    "Date": "09/25/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Army Men: Air Attack 2",
+    "Date": "09/26/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Army Men: Sarge's Heroes 2",
+    "Date": "09/26/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Road Rash 64",
+    "Date": "09/27/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Donkey Konga",
+    "Date": "09/27/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six Lockdown",
+    "Date": "09/27/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Trace Memory",
+    "Date": "09/27/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Cruis'n World",
+    "Date": "09/28/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Red Version",
+    "Date": "09/28/1998",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Pokémon Blue Version",
+    "Date": "09/28/1998",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Army Men: Sarge's Heroes",
+    "Date": "09/28/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Gex 3: Deep Cover Gecko",
+    "Date": "09/28/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Jeopardy! 2",
+    "Date": "09/28/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Power Rangers Lightspeed Rescue",
+    "Date": "09/28/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Crash Twinsanity",
+    "Date": "09/28/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Lego Star Wars II: The Original Trilogy",
+    "Date": "09/28/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Pilotwings 64",
+    "Date": "09/29/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Mario 64",
+    "Date": "09/29/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Dino Crisis 2",
+    "Date": "09/29/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Tigger's Honey Hunt",
+    "Date": "09/29/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Kingdom Hearts 358/2 Days",
+    "Date": "09/29/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Final Fantasy Legend",
+    "Date": "09/30/1990",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Faceball 2000",
+    "Date": "09/30/1992",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mega Man 7",
+    "Date": "09/30/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Myst",
+    "Date": "09/30/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Ridge Racer Revolution",
+    "Date": "09/30/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Duke Nukem: Total Meltdown",
+    "Date": "09/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Rampage World Tour",
+    "Date": "09/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Resident Evil: Director's Cut",
+    "Date": "09/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Street Fighter EX Plus a",
+    "Date": "09/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Extreme-G",
+    "Date": "09/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "F1 Pole Position 64",
+    "Date": "09/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Duke Nukem: Time to Kill",
+    "Date": "09/30/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "The Game of Life",
+    "Date": "09/30/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Buck Bumble",
+    "Date": "09/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Final Fantasy Anthology",
+    "Date": "09/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Quake II",
+    "Date": "09/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "South Park",
+    "Date": "09/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Space Invaders",
+    "Date": "09/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Xena: Warrior Princess",
+    "Date": "09/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Destruction Derby 64",
+    "Date": "09/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Operation WinBack (WinBack: Covert Operations)",
+    "Date": "09/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Donkey Kong Classics",
+    "Date": "10/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Pac-Man",
+    "Date": "10/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Tetris 2",
+    "Date": "10/00/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ms. Pac-Man",
+    "Date": "10/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mario's Early Years! Fun with Numbers",
+    "Date": "10/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Math Blaster: Episode 1",
+    "Date": "10/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "R-Type III: The Third Lightning",
+    "Date": "10/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mace: The Dark Age",
+    "Date": "10/00/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Top Gear Rally",
+    "Date": "10/00/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rad Racer",
+    "Date": "10/01/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mario Clash",
+    "Date": "10/01/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Final Doom",
+    "Date": "10/01/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Mortal Kombat Trilogy",
+    "Date": "10/01/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Mischief Makers",
+    "Date": "10/01/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "NHL '99",
+    "Date": "10/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Crash Team Racing",
+    "Date": "10/01/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Stunt Racer 64",
+    "Date": "10/01/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "The Legend of Zelda: Phantom Hourglass",
+    "Date": "10/01/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "NASCAR 2000",
+    "Date": "10/02/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Chibi-Robo!: Park Patrol",
+    "Date": "10/02/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Secret of Mana",
+    "Date": "10/03/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Knockout Kings 2000",
+    "Date": "10/03/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Burnout 2: Point of Impact",
+    "Date": "10/03/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Pokémon XD: Gale of Darkness",
+    "Date": "10/03/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Mario World 2: Yoshi's Island",
+    "Date": "10/04/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Street Fighter III: 3rd Strike",
+    "Date": "10/04/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Mortal Kombat: Deception",
+    "Date": "10/04/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mortal Kombat: Deception",
+    "Date": "10/04/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Mario Pinball Land",
+    "Date": "10/04/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mega Man Zero 4",
+    "Date": "10/04/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Castlevania: Dawn of Sorrow",
+    "Date": "10/04/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Trauma Center - Under the Knife",
+    "Date": "10/04/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon Ranger: Guardian Signs",
+    "Date": "10/04/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Balloon Kid",
+    "Date": "10/05/1990",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mario Golf",
+    "Date": "10/05/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Mega Man Zero 3",
+    "Date": "10/05/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Doom 3: Resurrection of Evil",
+    "Date": "10/05/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Final Fantasy: The 4 Heroes of Light",
+    "Date": "10/05/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Star Wars: The Clone Wars - Republic Heroes",
+    "Date": "10/06/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Spore Hero Arena",
+    "Date": "10/06/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Ogre Battle 64: Person of Lordly Caliber",
+    "Date": "10/07/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Black Version 2",
+    "Date": "10/07/2012",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Pokémon White Version 2",
+    "Date": "10/07/2012",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Super Mario Bros. 2",
+    "Date": "10/09/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Castlevania Chronicles",
+    "Date": "10/09/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "TimeSplitters 2",
+    "Date": "10/09/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Clubhouse Games",
+    "Date": "10/09/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Stunt Race FX",
+    "Date": "10/10/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mortal Kombat Mythologies: Sub-Zero",
+    "Date": "10/10/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Big Mountain 2000",
+    "Date": "10/10/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "The Legend of Spyro: A New Beginning",
+    "Date": "10/10/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Avatar: The Last Airbender",
+    "Date": "10/10/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Final Fantasy III",
+    "Date": "10/11/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Jet Force Gemini",
+    "Date": "10/11/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Paper Mario: The Thousand-Year Door",
+    "Date": "10/11/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "SSX On Tour",
+    "Date": "10/11/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Zoo Tycoon DS",
+    "Date": "10/11/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Metal Gear Solid: VR Missions",
+    "Date": "10/12/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Lego Racers",
+    "Date": "10/12/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "South Park: Chef's Luv Shack",
+    "Date": "10/12/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Date": "10/12/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Cars Race-O-Rama",
+    "Date": "10/12/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mortal Kombat 3",
+    "Date": "10/13/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Kirby Air Ride",
+    "Date": "10/13/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario & Sonic at the Olympic Winter Games",
+    "Date": "10/13/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dr. Mario",
+    "Date": "10/14/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "The Powerpuff Girls: Chemical X-Traction",
+    "Date": "10/14/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Jak II",
+    "Date": "10/14/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mega Man Zero 2",
+    "Date": "10/14/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Castlevania: Symphony of the Night",
+    "Date": "10/15/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Command and Conquer: Red Alert",
+    "Date": "10/15/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Pokémon Gold Version",
+    "Date": "10/15/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Pokémon Silver Version",
+    "Date": "10/15/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Star Wars Rogue Squadron III: Rebel Strike",
+    "Date": "10/15/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Flash Focus: Vision Training in Minutes a Day",
+    "Date": "10/15/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Cruis'n Exotica",
+    "Date": "10/16/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Devil May Cry",
+    "Date": "10/16/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Nintendogs: Dalmation & Friends",
+    "Date": "10/16/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Fish Tycoon",
+    "Date": "10/16/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "007: The World Is Not Enough",
+    "Date": "10/17/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "TimeSplitters 2",
+    "Date": "10/17/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Fire Emblem: Path of Radiance",
+    "Date": "10/17/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mortal Kombat: Armageddon",
+    "Date": "10/17/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Professor Layton and the Last Specter",
+    "Date": "10/17/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "10-Yard Fight",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Baseball",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Clu Clu Land",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Duck Hunt",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Excitebike",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Golf",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Gyromite",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Hogan's Alley",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Ice Climber",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Kung Fu",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Pinball",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Soccer",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Stack-Up",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Super Mario Bros.",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Tennis",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Wild Gunman",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Wrecking Crew",
+    "Date": "10/18/1985",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mike Tyson's Punch-Out!!",
+    "Date": "10/18/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Star Wars Episode I: Jedi Power Battles",
+    "Date": "10/18/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Kirby & the Amazing Mirror",
+    "Date": "10/18/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Chicken Shoot",
+    "Date": "10/18/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pokémon Yellow Version: Special Pikachu Edition",
+    "Date": "10/19/1999",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Crash Tag Team Racing",
+    "Date": "10/19/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Jack Bros.",
+    "Date": "10/20/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Body Harvest",
+    "Date": "10/20/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Metal Gear Solid",
+    "Date": "10/21/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Space Station Silicon Valley",
+    "Date": "10/21/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mario Party 4",
+    "Date": "10/21/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Castlevania: Lament of Innocence",
+    "Date": "10/21/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Grabbed by the Ghoulies",
+    "Date": "10/21/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Crimson Skies: High Road to Revenge",
+    "Date": "10/21/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Super Mario Advance 4: Super Mario Bros. 3",
+    "Date": "10/21/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Castlevania: Order of Ecclesia",
+    "Date": "10/21/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Quake III Arena",
+    "Date": "10/22/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "ClayFighter 63⅓",
+    "Date": "10/23/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Medal of Honor: Underground",
+    "Date": "10/23/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Mega Man ZX Advent",
+    "Date": "10/23/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "NFL Quarterback Club '98",
+    "Date": "10/24/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mega Man Legends 2",
+    "Date": "10/24/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Doom",
+    "Date": "10/24/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "The House of the Dead III",
+    "Date": "10/24/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Battlefield 2: Modern Combat",
+    "Date": "10/24/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Dance Dance Revolution Mario Mix",
+    "Date": "10/24/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Nintendogs: Best Friends",
+    "Date": "10/24/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Metroid Prime Pinball",
+    "Date": "10/24/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Phantasy Star Universe",
+    "Date": "10/24/2006",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Double Agent",
+    "Date": "10/24/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Spyro: Year of the Dragon",
+    "Date": "10/25/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Ace Combat 5: The Unsung War",
+    "Date": "10/25/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Classic NES Series: Dr. Mario",
+    "Date": "10/25/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Classic NES Series: Metroid",
+    "Date": "10/25/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Classic NES Series: Zelda II: The Adventure of Link",
+    "Date": "10/25/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Resident Evil 4",
+    "Date": "10/25/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Soulcalibur III",
+    "Date": "10/25/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Ratchet: Deadlocked",
+    "Date": "10/25/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Lego Star Wars: The Video Game",
+    "Date": "10/25/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Art Academy",
+    "Date": "10/25/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "F-Zero X",
+    "Date": "10/26/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "WCW/nWo Revenge",
+    "Date": "10/26/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "The Legend of Zelda: Majora's Mask",
+    "Date": "10/26/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Ridge Racer V",
+    "Date": "10/26/2000",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "TimeSplitters",
+    "Date": "10/26/2000",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Unreal Tournament",
+    "Date": "10/26/2000",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Street Fighter EX3",
+    "Date": "10/26/2000",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Grand Theft Auto Advance",
+    "Date": "10/26/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell: Double Agent",
+    "Date": "10/26/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Dementium: The Ward",
+    "Date": "10/26/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Star Wars - The Force Unleashed II",
+    "Date": "10/26/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong Land III",
+    "Date": "10/27/1997",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Shenmue II",
+    "Date": "10/28/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Star Wars: The Clone Wars",
+    "Date": "10/28/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Doom II: Hell on Earth",
+    "Date": "10/28/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Harry Potter: Quidditch World Cup",
+    "Date": "10/28/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter: Quidditch World Cup",
+    "Date": "10/28/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Harry Potter: Quidditch World Cup",
+    "Date": "10/28/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Harry Potter: Quidditch World Cup",
+    "Date": "10/28/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Top Gear Rally",
+    "Date": "10/28/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Phantasy Star Online Episode I & II",
+    "Date": "10/29/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Cars Mater-National Championship",
+    "Date": "10/29/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Nightmare Creatures",
+    "Date": "10/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Aero Fighters Assault",
+    "Date": "10/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Army Men: Sarge's Heroes",
+    "Date": "10/30/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Jet Grind Radio",
+    "Date": "10/30/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Bomberman Online",
+    "Date": "10/30/2001",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Mega Man Xtreme 2",
+    "Date": "10/30/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Mega Man Battle Network",
+    "Date": "10/30/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Super Street Fighter II Turbo Revival",
+    "Date": "10/30/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pokémon Ranger",
+    "Date": "10/30/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Children of Mana",
+    "Date": "10/30/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Crash Bandicoot 2: Crotex Strikes Back",
+    "Date": "10/31/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Tomb Raider II",
+    "Date": "10/31/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Duke Nukem 64",
+    "Date": "10/31/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Madden Football 64",
+    "Date": "10/31/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Dual Heroes",
+    "Date": "10/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Fox Sports College Hoops '99",
+    "Date": "10/31/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "South Park: Chef's Luv Shack",
+    "Date": "10/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Ready 2 Rumble Boxing",
+    "Date": "10/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Spyro 2: Ripto's Rage!",
+    "Date": "10/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Medal of Honor",
+    "Date": "10/31/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Earthworm Jim 3D",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA Live 2000",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA Showtime: NBA on NBC",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Paperboy",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Ready 2 Rumble Boxing",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Resident Evil 2",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rocket: Robot on Wheels",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Supercross 2000",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "WWF WrestleMania 2000",
+    "Date": "10/31/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sega Rally Championship 2",
+    "Date": "10/31/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Final Fantasy Origins",
+    "Date": "10/31/2002",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "Date": "10/31/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Mario Bros./Duck Hunt",
+    "Date": "11/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Tetris",
+    "Date": "11/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "To the Earth",
+    "Date": "11/00/1989",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mega Man 3",
+    "Date": "11/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Final Fantasy Adventure",
+    "Date": "11/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Final Fantasy Legend II",
+    "Date": "11/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Metroid II: Return of Samus",
+    "Date": "11/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Star Wars",
+    "Date": "11/00/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Ms. Pac-Man",
+    "Date": "11/00/1993",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mario's Early Years! Preschool Fun",
+    "Date": "11/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Wario Blast Featuring Bomberman!",
+    "Date": "11/00/1994",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Killer Instinct",
+    "Date": "11/00/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mortal Kombat 3",
+    "Date": "11/00/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Super Star Wars: Return of the Jedi",
+    "Date": "11/00/1995",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "SimCity 2000",
+    "Date": "11/00/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Nightmare Creatures",
+    "Date": "11/00/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Bomberman Quest",
+    "Date": "11/00/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Ms. Pac-Man: Special Color Edition",
+    "Date": "11/00/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Turok: Rage Wars",
+    "Date": "11/00/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Ghosts 'n Goblins",
+    "Date": "11/01/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Golf",
+    "Date": "11/01/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Street Fighter Alpha 2",
+    "Date": "11/01/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Street Fighter Alpha 2",
+    "Date": "11/01/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Wave Race 64",
+    "Date": "11/01/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Madden NFL '99",
+    "Date": "11/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tigger's Honey Hunt",
+    "Date": "11/01/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Ace Combat 04: Shattered Skies",
+    "Date": "11/01/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Burnout",
+    "Date": "11/01/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Call of Duty: Big Red One",
+    "Date": "11/01/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Star Wars: Battlefront II",
+    "Date": "11/01/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "007 From Russia with Love",
+    "Date": "11/01/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Castlevania: Curse of Darkness",
+    "Date": "11/01/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "007: From Russia with Love",
+    "Date": "11/01/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Call of Duty 2: Big Red One",
+    "Date": "11/01/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Star Wars: Battlefront II",
+    "Date": "11/01/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Call of Duty 2: Big Red One",
+    "Date": "11/01/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mega Man Battle Network 5: Double Team DS",
+    "Date": "11/01/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Super Mario Land 2: 6 Golden Coins",
+    "Date": "11/02/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Ratchet & Clank: Up Your Arsenal",
+    "Date": "11/02/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Mega Collection Plus",
+    "Date": "11/02/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Sonic Mega Collection Plus",
+    "Date": "11/02/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "GoldenEye 007",
+    "Date": "11/02/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Blood Stone 007",
+    "Date": "11/02/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "WipeOut 64",
+    "Date": "11/03/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Fire Emblem: The Blazing Blade",
+    "Date": "11/03/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Spyro: A Hero's Tail",
+    "Date": "11/03/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Star Wars Battlefront: Elite Squadron",
+    "Date": "11/03/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "NBA Live '99",
+    "Date": "11/04/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Ratchet & Clank",
+    "Date": "11/04/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Kid Icarus: Of Myths and Monsters",
+    "Date": "11/05/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Date": "11/05/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Spyro: Enter the Dragonfly",
+    "Date": "11/05/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Metal Gear Solid 2: Substance",
+    "Date": "11/05/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Castlevania: Curse of Darkness",
+    "Date": "11/05/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Call of Duty 4: Modern Warfare",
+    "Date": "11/05/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Rayman 2: The Great Escape",
+    "Date": "11/06/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Hey You, Pikachu!",
+    "Date": "11/06/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Final Fantasy V Advance",
+    "Date": "11/06/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Elite Beat Agents",
+    "Date": "11/06/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Lego Star Wars: The Complete Saga",
+    "Date": "11/06/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Dragon Quest Monsters - Joker",
+    "Date": "11/06/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Shenmue",
+    "Date": "11/07/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Guitar Hero",
+    "Date": "11/07/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Mario Party 7",
+    "Date": "11/07/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Donkey Kong Country 3",
+    "Date": "11/07/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Call of Duty 3",
+    "Date": "11/07/2006",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "San Francisco Rush: Extreme Racing",
+    "Date": "11/08/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA Courtside 2 Featuring Kobe Bryant",
+    "Date": "11/08/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "007 The World Is Not Enough",
+    "Date": "11/08/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Mario Power Tennis",
+    "Date": "11/08/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Date": "11/08/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Date": "11/08/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Date": "11/08/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Date": "11/08/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Date": "11/08/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Bomberman Land Touch!",
+    "Date": "11/08/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Call of Duty: Modern Warfare 3 - Defiance",
+    "Date": "11/08/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Ready 2 Rumble Boxing Round 2",
+    "Date": "11/09/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Michael Owens WLS 2000 (Mia Hamm Soccer 64)",
+    "Date": "11/09/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Spyro: A Hero's Tail",
+    "Date": "11/09/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Halo 2",
+    "Date": "11/09/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Call of Duty: Black Ops",
+    "Date": "11/09/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Knife Edge: Nose Gunner",
+    "Date": "11/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "NFL Quarterback Club '99",
+    "Date": "11/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rush 2: Extreme Racing USA",
+    "Date": "11/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Twisted Edge: Extreme Snowboarding",
+    "Date": "11/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Resident Evil 3: Nemesis",
+    "Date": "11/10/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Medal of Honor: Frontline",
+    "Date": "11/10/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Medal of Honor: Frontline",
+    "Date": "11/10/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Sonic Mega Collection",
+    "Date": "11/10/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Resident Evil Zero",
+    "Date": "11/10/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario Party 5",
+    "Date": "11/10/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Pokémon Ranger: Shadows of Almia",
+    "Date": "11/10/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Call of Duty: Modern Warfare: Mobilized",
+    "Date": "11/10/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Phantasy Star 0",
+    "Date": "11/10/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mortal Kombat Trilogy",
+    "Date": "11/11/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Wayne Gretzky's 3D Hockey",
+    "Date": "11/11/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Half-Life",
+    "Date": "11/11/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon",
+    "Date": "11/11/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Medal of Honor: Rising Sun",
+    "Date": "11/11/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Ratchet & Clank 2: Going Commando",
+    "Date": "11/11/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Crash Nitro Kart",
+    "Date": "11/11/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Medal of Honor: Rising Sun",
+    "Date": "11/11/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Medal of Honor: Rising Sun",
+    "Date": "11/11/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Star Wars: The Clone Wars - Jedi Alliance",
+    "Date": "11/11/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Call of Duty: World at War",
+    "Date": "11/11/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Lego Harry Potter: Years 5-7",
+    "Date": "11/11/2011",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Ms. Pac-Man: Maze Madness",
+    "Date": "11/12/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Rugrats in Paris: The Movie",
+    "Date": "11/12/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom and Jerry in Fists of Furry",
+    "Date": "11/12/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Golden Sun",
+    "Date": "11/12/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Unreal Championship",
+    "Date": "11/12/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Tomb Raider: The Prophecy",
+    "Date": "11/12/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six 3",
+    "Date": "11/12/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Ultimate Mortal Kombat",
+    "Date": "11/12/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mission: Impossible",
+    "Date": "11/13/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Final Fantasy IX",
+    "Date": "11/13/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Mickey's Speedway USA",
+    "Date": "11/13/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Ready 2 Rumble Boxing: Round 2",
+    "Date": "11/13/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Skies of Arcadia",
+    "Date": "11/13/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Sonic Shuffle",
+    "Date": "11/13/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Metal Gear Solid 2: Sons of Liberty",
+    "Date": "11/13/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "007 Agent Under Fire",
+    "Date": "11/13/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Yoshi's Island DS",
+    "Date": "11/13/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Contra 4",
+    "Date": "11/13/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tomb Raider",
+    "Date": "11/14/1996",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Midway's Greatest Arcade Hits: Volume 1",
+    "Date": "11/14/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Dino Crisis",
+    "Date": "11/14/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Date": "11/14/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Date": "11/14/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Star Wars: The New Droid Army",
+    "Date": "11/14/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mario Kart DS",
+    "Date": "11/14/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Tomb Raider: Legend",
+    "Date": "11/14/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Sonic the Hedgehog Genesis",
+    "Date": "11/14/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Tomb Raider: Legend",
+    "Date": "11/14/2006",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Tomb Raider: Legend",
+    "Date": "11/14/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Final Fantasy III",
+    "Date": "11/14/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Nintendo Zone Wireless Distribution Box DS Card",
+    "Date": "11/14/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
+    "Date": "11/14/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Monopoly",
+    "Date": "11/15/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Crash Bandicoot: Warped",
+    "Date": "11/15/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Sesame Street: Elmo's Letter Adventure",
+    "Date": "11/15/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Transformers: Beast Wars Transmetals",
+    "Date": "11/15/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Airforce Delta Storm",
+    "Date": "11/15/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Halo: Combat Evolved",
+    "Date": "11/15/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Oddworld: Munch's Oddysee",
+    "Date": "11/15/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Project Gotham Racing",
+    "Date": "11/15/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Date": "11/15/2002",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Date": "11/15/2002",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Date": "11/15/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Metroid Prime 2: Echoes",
+    "Date": "11/15/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Donkey Kong Country 2",
+    "Date": "11/15/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Shadow the Hedgehog",
+    "Date": "11/15/2005",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Half-Life 2",
+    "Date": "11/15/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Shadow the Hedgehog",
+    "Date": "11/15/2005",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Shadow the Hedgehog",
+    "Date": "11/15/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "From Russia with Love",
+    "Date": "11/15/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Doom",
+    "Date": "11/16/1995",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Glover",
+    "Date": "11/16/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Hercules: The Legendary Journeys",
+    "Date": "11/16/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Date": "11/16/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Date": "11/16/2001",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Date": "11/16/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mortal Kombat: Deadly Alliance",
+    "Date": "11/16/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Call of Duty: Finest Hour",
+    "Date": "11/16/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Call of Duty: Finest Hour",
+    "Date": "11/16/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon 2",
+    "Date": "11/16/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Call of Duty: Finest Hour",
+    "Date": "11/16/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Hornet F/A-18F",
+    "Date": "11/16/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows - Part 1",
+    "Date": "11/16/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Extreme-G 2",
+    "Date": "11/17/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six",
+    "Date": "11/17/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Blues Brothers 2000",
+    "Date": "11/17/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "WWF No Mercy",
+    "Date": "11/17/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Resident Evil 3: Nemesis",
+    "Date": "11/17/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Tom Clancy's Splinter Cell",
+    "Date": "11/17/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Metroid Prime",
+    "Date": "11/17/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Project Gotham Racing 2",
+    "Date": "11/17/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "The Legend of Zelda Collector's Edition",
+    "Date": "11/17/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario Kart: Double Dash!!",
+    "Date": "11/17/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario & Luigi: Superstar Saga",
+    "Date": "11/17/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Metal Gear Solid 3: Snake Eater",
+    "Date": "11/17/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Assassin's Creed II: Discovery",
+    "Date": "11/17/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "A Bug's Life",
+    "Date": "11/18/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Tetris DX",
+    "Date": "11/18/1998",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Pocket Bomberman",
+    "Date": "11/18/1998",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Luigi's Mansion",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Madden NFL 2002",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Star Wars Rogue Squadron II: Rogue Leader",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "All-Star Baseball 2002",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Wave Race: Blue Storm",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Monkey Ball",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Crazy Taxi",
+    "Date": "11/18/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "007 Nightfire",
+    "Date": "11/18/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "007 Nightfire",
+    "Date": "11/18/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Mortal Kombat: Deadly Alliance",
+    "Date": "11/18/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "James Bond 007: Nightfire",
+    "Date": "11/18/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Metroid Fusion",
+    "Date": "11/18/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Final Fantasy X-2",
+    "Date": "11/18/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Star Wars: Flight of the Falcon",
+    "Date": "11/18/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Tomb Raider: Underworld",
+    "Date": "11/18/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "PaRappa the Rapper",
+    "Date": "11/19/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Star Wars Demolition",
+    "Date": "11/19/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Tomb Raider: Chronicles",
+    "Date": "11/19/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Wario Land 4",
+    "Date": "11/19/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Star Wars: Bounty Hunter",
+    "Date": "11/19/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Star Wars: jedi Knight: Jedi Academy",
+    "Date": "11/19/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Mario Party DS",
+    "Date": "11/19/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Date": "11/20/1995",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Game & Watch Gallery 2",
+    "Date": "11/20/1998",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Banjo-Tooie",
+    "Date": "11/20/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "Date": "11/20/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Donkey Kong Country",
+    "Date": "11/20/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Star Wars: Jedi Knight II: Jedi Outcast",
+    "Date": "11/20/2002",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Star Wars Jedi Knight II: Jedi Outcast",
+    "Date": "11/20/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mortal Kombat: Deadly Alliance",
+    "Date": "11/20/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Phantasy Star Universe: Ambition of the Illuminus",
+    "Date": "11/20/2007",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Final Fantasy XII: Revenant Wings",
+    "Date": "11/20/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong Country",
+    "Date": "11/21/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Wipeout",
+    "Date": "11/21/1995",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Tomb Raider III: Adventures of Lara Croft",
+    "Date": "11/21/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Army Men: Sarge's Heroes 2",
+    "Date": "11/21/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Spider-Man",
+    "Date": "11/21/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Jedi Power Battles",
+    "Date": "11/21/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Metroid Prime Hunters: First Hunt",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Super Mario 64 DS",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Asphalt Urban GT",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Feel the Magic: XX/XY",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Madden NFL 2005",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Spider-Man 2",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Urbz: Sims in the City",
+    "Date": "11/21/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Date": "11/22/1996",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Tomb Raider: The Last Revelation",
+    "Date": "11/22/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Donkey Kong 64",
+    "Date": "11/22/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Grand Theft Auto",
+    "Date": "11/22/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Goldeneye: Rogue Agent",
+    "Date": "11/22/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "GoldenEye: Rogue Agent",
+    "Date": "11/22/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "GoldenEye: Rogue Agent",
+    "Date": "11/22/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Final Fantasy II",
+    "Date": "11/23/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Asteroids",
+    "Date": "11/23/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "The Legend of Zelda: Ocarina of Time",
+    "Date": "11/23/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Top Gear Overdrive",
+    "Date": "11/23/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Rainbow Six",
+    "Date": "11/23/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Turok: Rage Wars",
+    "Date": "11/23/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Diddy Kong Racing",
+    "Date": "11/24/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Milo's Astro Lanes",
+    "Date": "11/24/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tomb Raider Chronicles",
+    "Date": "11/24/2000",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Age of Empires: Mythologies",
+    "Date": "11/24/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Personal Trainer Cooking",
+    "Date": "11/24/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Killer Instinct Gold",
+    "Date": "11/25/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Chrono Trigger",
+    "Date": "11/25/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Star Wars: Starfighter Special Edition",
+    "Date": "11/26/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Master of Illusion",
+    "Date": "11/26/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Virtual Boy Wario Land",
+    "Date": "11/27/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Kirby's Dream Land 3",
+    "Date": "11/27/1997",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Star Wars Episode I: Obi-Wan's Adventures",
+    "Date": "11/27/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Razor Freestyle Scooter",
+    "Date": "11/27/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Ghouls 'n Ghosts",
+    "Date": "11/28/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Army Men: World War - Team Assault",
+    "Date": "11/28/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "NFL Blitz: Special Edition",
+    "Date": "11/28/2001",
+    "Console": "N64"
+  },
+  {
+    "Title": "Dr. Mario & Puzzle League",
+    "Date": "11/28/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Mario & Luigi: Partners in Time",
+    "Date": "11/28/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Metal Slug 7",
+    "Date": "11/28/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Final Fantasy I & II: Dawn of Souls",
+    "Date": "11/29/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Burnout Legends",
+    "Date": "11/29/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Golden Sun: Dark Dawn",
+    "Date": "11/29/2010",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Riven: The Sequel to Myst",
+    "Date": "11/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Street Fighter Collection",
+    "Date": "11/30/1997",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Automobili Lamborghini",
+    "Date": "11/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Bomberman 64 1997",
+    "Date": "11/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Chameleon Twist",
+    "Date": "11/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "FIFA: Road to World Cup '98",
+    "Date": "11/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "WCW vs. nWo: World Tour",
+    "Date": "11/30/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "FIFA '99",
+    "Date": "11/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA Jam '99",
+    "Date": "11/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "NHL Breakaway '99",
+    "Date": "11/30/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "South Park Rally",
+    "Date": "11/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "Date": "11/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Worms Armageddon",
+    "Date": "11/30/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Castlevania: Legacy of Darkness",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "NBA Jam 2000",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Nuclear Strike 64",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Roadsters",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Sesame Street: Elmo's Number Journey",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Space Invaders",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "Date": "11/30/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Shadow Man",
+    "Date": "11/30/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Worms Armageddon",
+    "Date": "11/30/1999",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Scooby-Doo! Classic Creep Capers",
+    "Date": "11/30/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon 2",
+    "Date": "11/30/2004",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Myst",
+    "Date": "11/30/2007",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Gradius",
+    "Date": "12/00/1986",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mega Man",
+    "Date": "12/00/1987",
+    "Console": "NES"
+  },
+  {
+    "Title": "Castlevania II: Simon's Quest",
+    "Date": "12/00/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "Super Mario Bros./Duck Hunt/World Class Track Meet",
+    "Date": "12/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+    "Date": "12/00/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Dr. Mario",
+    "Date": "12/00/1990",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mega Man: Dr. Wily's Revenge",
+    "Date": "12/00/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mega Man 5",
+    "Date": "12/00/1992",
+    "Console": "NES"
+  },
+  {
+    "Title": "R.C. Pro-Am II",
+    "Date": "12/00/1992",
+    "Console": "NES"
+  },
+  {
+    "Title": "Mega Man III",
+    "Date": "12/00/1992",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mario's Time Machine",
+    "Date": "12/00/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+    "Date": "12/00/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "F1 Pole Position",
+    "Date": "12/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Tetris 2",
+    "Date": "12/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Mega Man IV",
+    "Date": "12/00/1993",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Super Mario All-Stars + Super Mario World",
+    "Date": "12/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Tetris & Dr. Mario",
+    "Date": "12/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Wario's Woods",
+    "Date": "12/00/1994",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Mortal Kombat 4",
+    "Date": "12/00/1998",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Marble Madness",
+    "Date": "12/00/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Star Wars: Yoda Stories",
+    "Date": "12/00/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Grand Theft Auto 2",
+    "Date": "12/00/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "SimCity 2000",
+    "Date": "12/00/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Zelda II: The Adventure of Link",
+    "Date": "12/01/1988",
+    "Console": "NES"
+  },
+  {
+    "Title": "StarTropics",
+    "Date": "12/01/1990",
+    "Console": "NES"
+  },
+  {
+    "Title": "Faceball 2000",
+    "Date": "12/01/1991",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Battletoads & Double Dragon",
+    "Date": "12/01/1993",
+    "Console": "SNES"
+  },
+  {
+    "Title": "Panic Bomber",
+    "Date": "12/01/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Vertical Force",
+    "Date": "12/01/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "Turok: Battle of the Bionosaurs",
+    "Date": "12/01/1997",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Golden Nugget 64",
+    "Date": "12/01/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Tom Clancy's Ghost Recon",
+    "Date": "12/01/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Street Fighter Alpha 3",
+    "Date": "12/01/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "1080° Avalanche",
+    "Date": "12/01/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Pokémon Channel",
+    "Date": "12/01/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Sword of Mana",
+    "Date": "12/01/2003",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Wheel of Fortune",
+    "Date": "12/02/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Smash Bros. Melee",
+    "Date": "12/02/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Kirby: Nightmare in Dream Land",
+    "Date": "12/02/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "The Legend of Zelda: A Link to the Past/Four Swords",
+    "Date": "12/02/2002",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Pac-Man Vs.",
+    "Date": "12/02/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Cruis'n USA",
+    "Date": "12/03/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Shadows of the Empire",
+    "Date": "12/03/1996",
+    "Console": "N64"
+  },
+  {
+    "Title": "Wayne Gretzky's 3D Hockey '98",
+    "Date": "12/03/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Turok 2: Seeds of Evil",
+    "Date": "12/03/1998",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Top Gear Rally 2",
+    "Date": "12/03/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Jak and Daxter: The Precursor Legacy",
+    "Date": "12/03/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Pikmin",
+    "Date": "12/03/2001",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Resident Evil Code: Veronica X",
+    "Date": "12/03/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Super Castlevania IV",
+    "Date": "12/04/1991",
+    "Console": "SNES"
+  },
+  {
+    "Title": "S.C.A.R.S.",
+    "Date": "12/04/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Pokémon Puzzle Challenge",
+    "Date": "12/04/2000",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Mega Man X6",
+    "Date": "12/04/2001",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Kirby Squeak Squad",
+    "Date": "12/04/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Carmageddon 64",
+    "Date": "12/05/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Super Mario Strikers",
+    "Date": "12/05/2005",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Mario Tennis: Power Tour",
+    "Date": "12/05/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Animal Crossing: Wild World",
+    "Date": "12/05/2005",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Castlevania: Portrait of Ruin",
+    "Date": "12/05/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Game & Watch Gallery 3",
+    "Date": "12/06/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Star Wars Episode I: Racer",
+    "Date": "12/06/1999",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Resident Evil 2",
+    "Date": "12/06/2000",
+    "Console": "Dreamcast"
+  },
+  {
+    "Title": "Star Wars: Knights of the Old republic II: The Sith Lords",
+    "Date": "12/06/2004",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Mario Party 6",
+    "Date": "12/06/2004",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Star Wars: Rogue Squadron",
+    "Date": "12/07/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Bounty Hunter",
+    "Date": "12/07/2002",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Kingdom Hearts: Chain of Memories",
+    "Date": "12/07/2004",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Ridge Racer DS",
+    "Date": "12/07/2004",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "The Legend of Zelda: Spirit Tracks",
+    "Date": "12/07/2009",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Mortal Kombat Mythologies: Sub-Zero",
+    "Date": "12/08/1997",
+    "Console": "N64"
+  },
+  {
+    "Title": "Jeopardy!",
+    "Date": "12/09/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Armorines: Project S.W.A.R.M.",
+    "Date": "12/09/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Date": "12/09/2003",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Date": "12/09/2003",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Harry Potter and the Sorcer's Stone",
+    "Date": "12/09/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "R: Racing Evolution",
+    "Date": "12/09/2003",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "Wario's Woods",
+    "Date": "12/10/1994",
+    "Console": "NES"
+  },
+  {
+    "Title": "Turok 2: Seeds of Evil",
+    "Date": "12/10/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: The Clone Wars",
+    "Date": "12/10/2002",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "The Legend of Zelda: Twilight Princess",
+    "Date": "12/11/2006",
+    "Console": "GameCube"
+  },
+  {
+    "Title": "WCW Backstage Assault",
+    "Date": "12/12/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Mortal Kombat Advance",
+    "Date": "12/12/2001",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Final Fantasy IV Advance",
+    "Date": "12/12/2005",
+    "Console": "GameBoy Advance"
+  },
+  {
+    "Title": "Batman Beyond: Return of the Joker",
+    "Date": "12/13/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Asteroids Hyper 64",
+    "Date": "12/14/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Xena: Warrior Princess",
+    "Date": "12/14/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Lethal Alliance",
+    "Date": "12/14/2006",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Castlevania: The Adventure",
+    "Date": "12/15/1989",
+    "Console": "GameBoy"
+  },
+  {
+    "Title": "Wheel of Fortune",
+    "Date": "12/15/1998",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Star Soldier: Vanishing Earth",
+    "Date": "12/15/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "The Legend of Zelda: Link's Awakening DX",
+    "Date": "12/15/1998",
+    "Console": "GameBoy Color"
+  },
+  {
+    "Title": "Indiana Jones and the Infernal Machine",
+    "Date": "12/15/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Game & Watch Collection",
+    "Date": "12/15/2008",
+    "Console": "Nintendo DS"
+  },
+  {
+    "Title": "Bassmasters 2000",
+    "Date": "12/16/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Virtual Pool 64",
+    "Date": "12/17/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Lego Racers",
+    "Date": "12/17/1999",
+    "Console": "PlayStation"
+  },
+  {
+    "Title": "Final Fantasy X",
+    "Date": "12/17/2001",
+    "Console": "PlayStation 2"
+  },
+  {
+    "Title": "Monopoly",
+    "Date": "12/18/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Episode I Battle for Naboo",
+    "Date": "12/18/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Star Wars: Obi-Wan",
+    "Date": "12/19/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Donald Duck: Goin' Quackers",
+    "Date": "12/20/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "Silent Hill 2",
+    "Date": "12/20/2001",
+    "Console": "Xbox"
+  },
+  {
+    "Title": "Waterworld",
+    "Date": "12/21/1995",
+    "Console": "VirtualBoy"
+  },
+  {
+    "Title": "South Park",
+    "Date": "12/21/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Harvest Moon 64",
+    "Date": "12/22/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Brunswick Circuit Pro Bowling",
+    "Date": "12/23/1999",
+    "Console": "N64"
+  },
+  {
+    "Title": "Polaris SnoCross",
+    "Date": "12/27/2000",
+    "Console": "N64"
+  },
+  {
+    "Title": "BattleTanx",
+    "Date": "12/29/1998",
+    "Console": "N64"
+  },
+  {
+    "Title": "Namco Museum 64",
+    "Date": "12/31/1999",
+    "Console": "N64"
+  }
+]
