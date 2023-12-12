@@ -10,6 +10,8 @@
 <body>
     <h1>Games and Dates Comparison</h1>
 
+    <p>This is not by any means a complete list of video games, just a large sample to choose from. If a game does not have a day in its date (shows month and year only), it will not compute correctly. I tried for hours to remedy that issue but just couldn't find a way :/ Most games do have days in their datesm however, so you may never even see this issue come up.</p>
+
     <label for="gameSelector">Select a Game:</label>
     <select id="gameSelector"></select>
 
@@ -18,11 +20,17 @@
     <label for="compareGameSelector">Select a Game to Compare:</label>
     <select id="compareGameSelector"></select>
 
+    <p id="compareGameDetails">Game details will be displayed here.</p>
+
     <button id="compareButton">Compare</button>
 
-    <div id="comparison"></div>
+    <div id="comparisonResults">
+        <p id="timeSinceGame1"></p>
+        <p id="timeSinceGame2"></p>
+        <p id="timeBetweenGames"></p>
+    </div>
 
-    <script src="scripts/main.js"></script>
+    <script src="scripts/project.js"></script>
 </body>
 
 </html>
