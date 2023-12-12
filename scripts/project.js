@@ -31,13 +31,17 @@ async function populateDropdowns() {
 
     // Populate dropdowns with game titles
     gameData.forEach((game) => {
-        const option = document.createElement("option");
+        const optionForGame = document.createElement("option");
+        const optionForCompareGame = document.createElement("option");
 
-        option.text = game.Title;
-        option.value = game.Date;
+        optionForGame.text = game.Title;
+        optionForGame.value = game.Date;
 
-        gameSelector.appendChild(option.cloneNode(true)); // Use clone to avoid duplicate elements
-        compareGameSelector.appendChild(option.cloneNode(true));
+        optionForCompareGame.text = game.Title; // Use the same game titles for comparison dropdown
+        optionForCompareGame.value = game.Date;
+
+        gameSelector.appendChild(optionForGame);
+        compareGameSelector.appendChild(optionForCompareGame);
     });
 
     // Add change event listener to update details for the first dropdown
